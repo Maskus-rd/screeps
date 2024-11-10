@@ -19,3 +19,5 @@ var roleFarmer = {
     }
   }
 };
+
+module.exports = roleFarmer;
